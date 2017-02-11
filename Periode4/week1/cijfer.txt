@@ -1,0 +1,17 @@
+2016/07/03 12:00:45pm
+-simone ICT 9.00
+-henk nederlands 8.90
+-henk HTML 6.00
+-henk php 7.00
+-simone php 8.00
+-simone duits 8.00
+-simone tekenen 8.00
+-henk frans 9.50
+-simone ict 9.00
+-eric duits 9.00
+-karl engels 8.00
+-hans ict 6.00
+-eric ict 9.00
+-karl duits 8.00
+-hans engels 6.00
+-Klaas latijns 6.00

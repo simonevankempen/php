@@ -1,0 +1,17 @@
+[31-May-2016 07:12:29 UTC] PHP Parse error:  syntax error, unexpected '$file' (T_VARIABLE) in /home/ubuntu/workspace/login/images/imagesql.php on line 29
+[31-May-2016 07:13:24 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/ubuntu/workspace/login/images/imagesql.php on line 37
+[31-May-2016 07:13:24 UTC] PHP Stack trace:
+[31-May-2016 07:13:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/images/imagesql.php:0
+[31-May-2016 07:13:24 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/login/images/imagesql.php:37
+[31-May-2016 07:13:24 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ubuntu/workspace/login/images/imagesql.php on line 39
+[31-May-2016 07:13:24 UTC] PHP Stack trace:
+[31-May-2016 07:13:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/images/imagesql.php:0
+[31-May-2016 07:13:24 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/login/images/imagesql.php:39
+[31-May-2016 07:13:44 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/login/images/imagesql.php on line 49
+[31-May-2016 07:13:44 UTC] PHP Stack trace:
+[31-May-2016 07:13:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/images/imagesql.php:0
+[31-May-2016 07:13:44 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/login/images/imagesql.php:49
+[31-May-2016 07:13:44 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/login/images/imagesql.php on line 49
+[31-May-2016 07:13:44 UTC] PHP Stack trace:
+[31-May-2016 07:13:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/images/imagesql.php:0
+[31-May-2016 07:13:44 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/login/images/imagesql.php:49

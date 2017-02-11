@@ -1,0 +1,513 @@
+[11-May-2016 07:26:56 UTC] PHP Warning:  fopen(/hello.txt): failed to open stream: Permission denied in /home/ubuntu/workspace/Periode4/week1/fileupload.php on line 2
+[11-May-2016 07:26:56 UTC] PHP Stack trace:
+[11-May-2016 07:26:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/fileupload.php:0
+[11-May-2016 07:26:56 UTC] PHP   2. fopen() /home/ubuntu/workspace/Periode4/week1/fileupload.php:2
+[11-May-2016 07:49:50 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php on line 75
+[11-May-2016 07:49:50 UTC] PHP Stack trace:
+[11-May-2016 07:49:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php:0
+[11-May-2016 07:49:50 UTC] PHP   2. fclose() /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php:75
+[11-May-2016 07:50:19 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php on line 17
+[11-May-2016 07:50:19 UTC] PHP Stack trace:
+[11-May-2016 07:50:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php:0
+[11-May-2016 07:50:19 UTC] PHP   2. fclose() /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php:17
+[11-May-2016 07:50:47 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php on line 17
+[11-May-2016 07:50:47 UTC] PHP Stack trace:
+[11-May-2016 07:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php:0
+[11-May-2016 07:50:47 UTC] PHP   2. fclose() /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php:17
+[11-May-2016 07:50:48 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php on line 17
+[11-May-2016 07:50:49 UTC] PHP Stack trace:
+[11-May-2016 07:50:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php:0
+[11-May-2016 07:50:49 UTC] PHP   2. fclose() /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php:17
+[11-May-2016 07:50:50 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php on line 17
+[11-May-2016 07:50:50 UTC] PHP Stack trace:
+[11-May-2016 07:50:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php:0
+[11-May-2016 07:50:50 UTC] PHP   2. fclose() /home/ubuntu/workspace/Periode4/week1/Pe3Wk1d1.php:17
+[12-May-2016 19:21:51 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a.php on line 16
+[12-May-2016 19:22:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a.php on line 10
+[12-May-2016 19:23:11 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a.php on line 18
+[12-May-2016 19:28:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a.php on line 24
+[12-May-2016 19:45:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a.php on line 24
+[12-May-2016 19:56:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a.php on line 17
+[12-May-2016 20:07:31 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 14
+[12-May-2016 20:07:31 UTC] PHP Stack trace:
+[12-May-2016 20:07:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:0
+[12-May-2016 20:07:31 UTC] PHP   2. date_format() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:14
+[12-May-2016 20:07:47 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 14
+[12-May-2016 20:07:47 UTC] PHP Stack trace:
+[12-May-2016 20:07:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:0
+[12-May-2016 20:07:47 UTC] PHP   2. date_format() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:14
+[12-May-2016 20:07:48 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 14
+[12-May-2016 20:07:48 UTC] PHP Stack trace:
+[12-May-2016 20:07:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:0
+[12-May-2016 20:07:48 UTC] PHP   2. date_format() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:14
+[12-May-2016 20:08:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 10
+[12-May-2016 20:12:53 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 12
+[12-May-2016 20:12:53 UTC] PHP Stack trace:
+[12-May-2016 20:12:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:0
+[12-May-2016 20:12:53 UTC] PHP   2. date_format() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:12
+[18-May-2016 07:17:00 UTC] PHP Parse error:  syntax error, unexpected '"e dag van de week"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 20
+[18-May-2016 07:27:37 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 33
+[18-May-2016 07:28:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 33
+[18-May-2016 07:28:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 34
+[18-May-2016 07:29:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 33
+[18-May-2016 07:30:02 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 33
+[18-May-2016 07:39:13 UTC] PHP Parse error:  syntax error, unexpected '"."' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 10
+[18-May-2016 13:11:44 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 20
+[18-May-2016 13:11:44 UTC] PHP Stack trace:
+[18-May-2016 13:11:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:0
+[18-May-2016 13:11:44 UTC] PHP   2. date_format() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:20
+[18-May-2016 13:12:03 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 20
+[18-May-2016 13:12:03 UTC] PHP Stack trace:
+[18-May-2016 13:12:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:0
+[18-May-2016 13:12:03 UTC] PHP   2. date_format() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:20
+[18-May-2016 13:12:32 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 21
+[18-May-2016 13:12:32 UTC] PHP Stack trace:
+[18-May-2016 13:12:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:0
+[18-May-2016 13:12:32 UTC] PHP   2. date_format() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:21
+[18-May-2016 13:13:32 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 21
+[18-May-2016 13:13:32 UTC] PHP Stack trace:
+[18-May-2016 13:13:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:0
+[18-May-2016 13:13:32 UTC] PHP   2. date_format() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:21
+[18-May-2016 13:14:49 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 21
+[18-May-2016 13:14:49 UTC] PHP Stack trace:
+[18-May-2016 13:14:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:0
+[18-May-2016 13:14:49 UTC] PHP   2. date_format() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:21
+[18-May-2016 13:16:55 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 21
+[18-May-2016 13:16:55 UTC] PHP Stack trace:
+[18-May-2016 13:16:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:0
+[18-May-2016 13:16:55 UTC] PHP   2. date_format() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:21
+[18-May-2016 13:17:28 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 21
+[18-May-2016 13:17:28 UTC] PHP Stack trace:
+[18-May-2016 13:17:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:0
+[18-May-2016 13:17:28 UTC] PHP   2. date_format() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php:21
+[18-May-2016 13:20:12 UTC] PHP Parse error:  syntax error, unexpected '' '' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a2.php on line 19
+[21-May-2016 11:37:23 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a3.php on line 41
+[21-May-2016 11:37:35 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a3.php on line 41
+[21-May-2016 11:39:20 UTC] PHP Fatal error:  Call to undefined function cal_days_in_year() in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a3.php on line 42
+[21-May-2016 11:39:20 UTC] PHP Stack trace:
+[21-May-2016 11:39:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a3.php:0
+[21-May-2016 11:41:47 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a3.php on line 46
+[21-May-2016 11:41:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a3.php on line 46
+[21-May-2016 11:49:14 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1a3.php on line 48
+[22-May-2016 09:50:11 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ubuntu/workspace/Periode4/week1/uploadimage.php on line 22
+[22-May-2016 09:50:12 UTC] PHP Stack trace:
+[22-May-2016 09:50:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:0
+[22-May-2016 09:50:12 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:22
+[22-May-2016 09:50:25 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ubuntu/workspace/Periode4/week1/uploadimage.php on line 22
+[22-May-2016 09:50:25 UTC] PHP Stack trace:
+[22-May-2016 09:50:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:0
+[22-May-2016 09:50:25 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:22
+[22-May-2016 09:53:53 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ubuntu/workspace/Periode4/week1/uploadimage.php on line 22
+[22-May-2016 09:53:53 UTC] PHP Stack trace:
+[22-May-2016 09:53:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:0
+[22-May-2016 09:53:53 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:22
+[22-May-2016 09:54:19 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ubuntu/workspace/Periode4/week1/uploadimage.php on line 22
+[22-May-2016 09:54:19 UTC] PHP Stack trace:
+[22-May-2016 09:54:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:0
+[22-May-2016 09:54:19 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:22
+[22-May-2016 09:54:25 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ubuntu/workspace/Periode4/week1/uploadimage.php on line 22
+[22-May-2016 09:54:25 UTC] PHP Stack trace:
+[22-May-2016 09:54:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:0
+[22-May-2016 09:54:25 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:22
+[22-May-2016 09:57:05 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ubuntu/workspace/Periode4/week1/uploadimage.php on line 25
+[22-May-2016 09:57:05 UTC] PHP Stack trace:
+[22-May-2016 09:57:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:0
+[22-May-2016 09:57:05 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:25
+[22-May-2016 09:57:11 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ubuntu/workspace/Periode4/week1/uploadimage.php on line 25
+[22-May-2016 09:57:11 UTC] PHP Stack trace:
+[22-May-2016 09:57:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:0
+[22-May-2016 09:57:11 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:25
+[23-May-2016 11:31:56 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ubuntu/workspace/Periode4/week1/uploadimage.php on line 25
+[23-May-2016 11:31:56 UTC] PHP Stack trace:
+[23-May-2016 11:31:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:0
+[23-May-2016 11:31:56 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/Periode4/week1/uploadimage.php:25
+[23-May-2016 11:34:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php on line 32
+[23-May-2016 11:34:51 UTC] PHP Stack trace:
+[23-May-2016 11:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php:0
+[23-May-2016 11:34:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php on line 32
+[23-May-2016 11:34:52 UTC] PHP Stack trace:
+[23-May-2016 11:34:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php:0
+[23-May-2016 11:35:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php on line 32
+[23-May-2016 11:35:32 UTC] PHP Stack trace:
+[23-May-2016 11:35:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php:0
+[23-May-2016 11:35:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php on line 32
+[23-May-2016 11:35:58 UTC] PHP Stack trace:
+[23-May-2016 11:35:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php:0
+[23-May-2016 11:51:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php on line 32
+[23-May-2016 11:51:11 UTC] PHP Stack trace:
+[23-May-2016 11:51:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php:0
+[23-May-2016 11:58:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php on line 32
+[23-May-2016 11:58:01 UTC] PHP Stack trace:
+[23-May-2016 11:58:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php:0
+[29-May-2016 14:27:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week2/order1.php on line 29
+[29-May-2016 14:27:00 UTC] PHP Stack trace:
+[29-May-2016 14:27:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/order1.php:0
+[29-May-2016 14:28:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week2/order1.php on line 26
+[29-May-2016 14:28:26 UTC] PHP Stack trace:
+[29-May-2016 14:28:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/order1.php:0
+[29-May-2016 14:28:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week2/order1.php on line 26
+[29-May-2016 14:28:46 UTC] PHP Stack trace:
+[29-May-2016 14:28:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/order1.php:0
+[29-May-2016 14:30:04 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/ubuntu/workspace/Periode4/week2/order1.php on line 23
+[29-May-2016 14:36:12 UTC] PHP Warning:  require(database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Periode4/week2/order1.php on line 12
+[29-May-2016 14:36:12 UTC] PHP Stack trace:
+[29-May-2016 14:36:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/order1.php:0
+[29-May-2016 14:36:12 UTC] PHP Fatal error:  require(): Failed opening required 'database.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Periode4/week2/order1.php on line 12
+[29-May-2016 14:36:12 UTC] PHP Stack trace:
+[29-May-2016 14:36:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/order1.php:0
+[29-May-2016 14:36:36 UTC] PHP Warning:  require(periode4/database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Periode4/week2/order1.php on line 12
+[29-May-2016 14:36:36 UTC] PHP Stack trace:
+[29-May-2016 14:36:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/order1.php:0
+[29-May-2016 14:36:36 UTC] PHP Fatal error:  require(): Failed opening required 'periode4/database.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Periode4/week2/order1.php on line 12
+[29-May-2016 14:36:36 UTC] PHP Stack trace:
+[29-May-2016 14:36:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/order1.php:0
+[29-May-2016 14:36:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/Periode4/week2/order1.php on line 13
+[29-May-2016 14:37:36 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Periode4/week2/order1.php on line 14
+[29-May-2016 14:37:36 UTC] PHP Stack trace:
+[29-May-2016 14:37:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/order1.php:0
+[29-May-2016 14:40:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week2/order1.php on line 52
+[29-May-2016 14:40:46 UTC] PHP Stack trace:
+[29-May-2016 14:40:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/order1.php:0
+[29-May-2016 14:42:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week2/order1.php on line 52
+[29-May-2016 14:42:01 UTC] PHP Stack trace:
+[29-May-2016 14:42:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/order1.php:0
+[30-May-2016 09:22:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php on line 32
+[30-May-2016 09:22:55 UTC] PHP Stack trace:
+[30-May-2016 09:22:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php:0
+[30-May-2016 09:22:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php on line 32
+[30-May-2016 09:22:57 UTC] PHP Stack trace:
+[30-May-2016 09:22:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php:0
+[30-May-2016 09:22:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php on line 32
+[30-May-2016 09:22:58 UTC] PHP Stack trace:
+[30-May-2016 09:22:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week1/Pe4Wk1d1.php:0
+[30-May-2016 09:39:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week2/limit1.php on line 22
+[30-May-2016 09:39:03 UTC] PHP Stack trace:
+[30-May-2016 09:39:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/limit1.php:0
+[30-May-2016 09:39:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week2/limit1.php on line 22
+[30-May-2016 09:39:52 UTC] PHP Stack trace:
+[30-May-2016 09:39:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/limit1.php:0
+[30-May-2016 09:39:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week2/limit1.php on line 22
+[30-May-2016 09:39:53 UTC] PHP Stack trace:
+[30-May-2016 09:39:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/limit1.php:0
+[30-May-2016 09:40:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week2/limit1.php on line 22
+[30-May-2016 09:40:57 UTC] PHP Stack trace:
+[30-May-2016 09:40:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/limit1.php:0
+[07-Jun-2016 17:48:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/Periode4/Oh oh/practive.php on line 12
+[07-Jun-2016 17:48:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/Periode4/Oh oh/practive.php on line 12
+[07-Jun-2016 17:55:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/Periode4/Oh oh/practive.php on line 12
+[08-Jun-2016 14:31:57 UTC] PHP Warning:  require(klantphp): failed to open stream: No such file or directory in /home/ubuntu/workspace/Periode4/Oh oh/guitar.php on line 3
+[08-Jun-2016 14:31:57 UTC] PHP Stack trace:
+[08-Jun-2016 14:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/guitar.php:0
+[08-Jun-2016 14:31:57 UTC] PHP Fatal error:  require(): Failed opening required 'klantphp' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Periode4/Oh oh/guitar.php on line 3
+[08-Jun-2016 14:31:57 UTC] PHP Stack trace:
+[08-Jun-2016 14:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/guitar.php:0
+[08-Jun-2016 14:33:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/ubuntu/workspace/Periode4/Oh oh/guitar.php on line 3
+[08-Jun-2016 14:33:20 UTC] PHP Warning:  require(klantphp): failed to open stream: No such file or directory in /home/ubuntu/workspace/Periode4/Oh oh/guitar.php on line 3
+[08-Jun-2016 14:33:20 UTC] PHP Stack trace:
+[08-Jun-2016 14:33:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/guitar.php:0
+[08-Jun-2016 14:33:20 UTC] PHP Fatal error:  require(): Failed opening required 'klantphp' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Periode4/Oh oh/guitar.php on line 3
+[08-Jun-2016 14:33:20 UTC] PHP Stack trace:
+[08-Jun-2016 14:33:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/guitar.php:0
+[08-Jun-2016 14:40:25 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/ubuntu/workspace/Periode4/Oh oh/guitar.php on line 3
+[08-Jun-2016 14:40:41 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/ubuntu/workspace/Periode4/Oh oh/guitar.php on line 3
+[08-Jun-2016 14:47:28 UTC] PHP Warning:  require(klantphp): failed to open stream: No such file or directory in /home/ubuntu/workspace/Periode4/Oh oh/guitar.php on line 3
+[08-Jun-2016 14:47:28 UTC] PHP Stack trace:
+[08-Jun-2016 14:47:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/guitar.php:0
+[08-Jun-2016 14:47:28 UTC] PHP Fatal error:  require(): Failed opening required 'klantphp' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Periode4/Oh oh/guitar.php on line 3
+[08-Jun-2016 14:47:28 UTC] PHP Stack trace:
+[08-Jun-2016 14:47:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/guitar.php:0
+[09-Jun-2016 19:07:19 UTC] PHP Warning:  Missing argument 3 for klant::__construct(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 5 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.php on line 9
+[09-Jun-2016 19:07:19 UTC] PHP Stack trace:
+[09-Jun-2016 19:07:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[09-Jun-2016 19:07:19 UTC] PHP   2. klant->__construct() /home/ubuntu/workspace/Periode4/Oh oh/index.php:5
+[09-Jun-2016 19:07:54 UTC] PHP Warning:  Missing argument 3 for klant::__construct(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 5 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.php on line 9
+[09-Jun-2016 19:07:54 UTC] PHP Stack trace:
+[09-Jun-2016 19:07:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[09-Jun-2016 19:07:54 UTC] PHP   2. klant->__construct() /home/ubuntu/workspace/Periode4/Oh oh/index.php:5
+[09-Jun-2016 19:07:54 UTC] PHP Catchable fatal error:  Object of class klant could not be converted to string in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 7
+[09-Jun-2016 19:07:54 UTC] PHP Stack trace:
+[09-Jun-2016 19:07:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[09-Jun-2016 19:08:06 UTC] PHP Warning:  Missing argument 3 for klant::__construct(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 5 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.php on line 9
+[09-Jun-2016 19:08:06 UTC] PHP Stack trace:
+[09-Jun-2016 19:08:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[09-Jun-2016 19:08:06 UTC] PHP   2. klant->__construct() /home/ubuntu/workspace/Periode4/Oh oh/index.php:5
+[09-Jun-2016 19:08:45 UTC] PHP Fatal error:  Call to undefined method klant::getType() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 7
+[09-Jun-2016 19:08:45 UTC] PHP Stack trace:
+[09-Jun-2016 19:08:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[09-Jun-2016 19:18:35 UTC] PHP Fatal error:  Call to undefined function setKlantId() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 7
+[09-Jun-2016 19:18:35 UTC] PHP Stack trace:
+[09-Jun-2016 19:18:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[09-Jun-2016 19:19:31 UTC] PHP Fatal error:  Call to undefined function setKlantId() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 7
+[09-Jun-2016 19:19:31 UTC] PHP Stack trace:
+[09-Jun-2016 19:19:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[09-Jun-2016 19:19:42 UTC] PHP Fatal error:  Call to undefined function setKlantId() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 7
+[09-Jun-2016 19:19:42 UTC] PHP Stack trace:
+[09-Jun-2016 19:19:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[09-Jun-2016 19:21:14 UTC] PHP Parse error:  syntax error, unexpected '$klant1' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 14
+[09-Jun-2016 19:22:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 12
+[09-Jun-2016 19:25:24 UTC] PHP Parse error:  syntax error, unexpected '"</td></tr>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 27
+[10-Jun-2016 14:20:32 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 40
+[10-Jun-2016 14:23:21 UTC] PHP Fatal error:  Call to a member function getKlantId() on a non-object in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 43
+[10-Jun-2016 14:23:21 UTC] PHP Stack trace:
+[10-Jun-2016 14:23:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:23:43 UTC] PHP Fatal error:  Call to a member function getKlantId() on a non-object in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 43
+[10-Jun-2016 14:23:43 UTC] PHP Stack trace:
+[10-Jun-2016 14:23:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:23:55 UTC] PHP Fatal error:  Call to a member function getKlantId() on a non-object in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 43
+[10-Jun-2016 14:23:55 UTC] PHP Stack trace:
+[10-Jun-2016 14:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:23:56 UTC] PHP Fatal error:  Call to a member function getKlantId() on a non-object in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 43
+[10-Jun-2016 14:23:56 UTC] PHP Stack trace:
+[10-Jun-2016 14:23:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:24:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 43
+[10-Jun-2016 14:29:06 UTC] PHP Warning:  Missing argument 1 for klant::getWoonplaats(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 43 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.class.php on line 39
+[10-Jun-2016 14:29:06 UTC] PHP Stack trace:
+[10-Jun-2016 14:29:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:29:06 UTC] PHP   2. klant->getWoonplaats() /home/ubuntu/workspace/Periode4/Oh oh/index.php:43
+[10-Jun-2016 14:29:06 UTC] PHP Warning:  Missing argument 1 for klant::getTelefoonNummer(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 43 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.class.php on line 47
+[10-Jun-2016 14:29:06 UTC] PHP Stack trace:
+[10-Jun-2016 14:29:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:29:06 UTC] PHP   2. klant->getTelefoonNummer() /home/ubuntu/workspace/Periode4/Oh oh/index.php:43
+[10-Jun-2016 14:30:43 UTC] PHP Warning:  Missing argument 1 for klant::getWoonplaats(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 43 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.class.php on line 35
+[10-Jun-2016 14:30:43 UTC] PHP Stack trace:
+[10-Jun-2016 14:30:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:30:43 UTC] PHP   2. klant->getWoonplaats() /home/ubuntu/workspace/Periode4/Oh oh/index.php:43
+[10-Jun-2016 14:30:43 UTC] PHP Warning:  Missing argument 1 for klant::getTelefoonNummer(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 43 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.class.php on line 43
+[10-Jun-2016 14:30:43 UTC] PHP Stack trace:
+[10-Jun-2016 14:30:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:30:43 UTC] PHP   2. klant->getTelefoonNummer() /home/ubuntu/workspace/Periode4/Oh oh/index.php:43
+[10-Jun-2016 14:31:38 UTC] PHP Warning:  Missing argument 1 for klant::getWoonplaats(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 43 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.class.php on line 35
+[10-Jun-2016 14:31:38 UTC] PHP Stack trace:
+[10-Jun-2016 14:31:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:31:38 UTC] PHP   2. klant->getWoonplaats() /home/ubuntu/workspace/Periode4/Oh oh/index.php:43
+[10-Jun-2016 14:31:38 UTC] PHP Warning:  Missing argument 1 for klant::getTelefoonNummer(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 43 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.class.php on line 43
+[10-Jun-2016 14:31:38 UTC] PHP Stack trace:
+[10-Jun-2016 14:31:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:31:38 UTC] PHP   2. klant->getTelefoonNummer() /home/ubuntu/workspace/Periode4/Oh oh/index.php:43
+[10-Jun-2016 14:32:37 UTC] PHP Warning:  Missing argument 1 for klant::getWoonplaats(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 42 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.class.php on line 35
+[10-Jun-2016 14:32:37 UTC] PHP Stack trace:
+[10-Jun-2016 14:32:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:32:37 UTC] PHP   2. klant->getWoonplaats() /home/ubuntu/workspace/Periode4/Oh oh/index.php:42
+[10-Jun-2016 14:32:37 UTC] PHP Warning:  Missing argument 1 for klant::getTelefoonNummer(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 42 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.class.php on line 43
+[10-Jun-2016 14:32:37 UTC] PHP Stack trace:
+[10-Jun-2016 14:32:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:32:37 UTC] PHP   2. klant->getTelefoonNummer() /home/ubuntu/workspace/Periode4/Oh oh/index.php:42
+[10-Jun-2016 14:34:50 UTC] PHP Warning:  Missing argument 1 for klant::getWoonplaats(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 42 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.class.php on line 36
+[10-Jun-2016 14:34:50 UTC] PHP Stack trace:
+[10-Jun-2016 14:34:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:34:50 UTC] PHP   2. klant->getWoonplaats() /home/ubuntu/workspace/Periode4/Oh oh/index.php:42
+[10-Jun-2016 14:34:50 UTC] PHP Warning:  Missing argument 1 for klant::getTelefoonNummer(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 42 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.class.php on line 44
+[10-Jun-2016 14:34:50 UTC] PHP Stack trace:
+[10-Jun-2016 14:34:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:34:50 UTC] PHP   2. klant->getTelefoonNummer() /home/ubuntu/workspace/Periode4/Oh oh/index.php:42
+[10-Jun-2016 14:34:51 UTC] PHP Warning:  Missing argument 1 for klant::getWoonplaats(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 42 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.class.php on line 36
+[10-Jun-2016 14:34:51 UTC] PHP Stack trace:
+[10-Jun-2016 14:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:34:51 UTC] PHP   2. klant->getWoonplaats() /home/ubuntu/workspace/Periode4/Oh oh/index.php:42
+[10-Jun-2016 14:34:51 UTC] PHP Warning:  Missing argument 1 for klant::getTelefoonNummer(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 42 and defined in /home/ubuntu/workspace/Periode4/Oh oh/klant.class.php on line 44
+[10-Jun-2016 14:34:51 UTC] PHP Stack trace:
+[10-Jun-2016 14:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 14:34:51 UTC] PHP   2. klant->getTelefoonNummer() /home/ubuntu/workspace/Periode4/Oh oh/index.php:42
+[10-Jun-2016 15:09:47 UTC] PHP Fatal error:  Class 'order' not found in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 87
+[10-Jun-2016 15:09:47 UTC] PHP Stack trace:
+[10-Jun-2016 15:09:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:13:11 UTC] PHP Fatal error:  Call to undefined method order::setInstrumentId() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 89
+[10-Jun-2016 15:13:11 UTC] PHP Stack trace:
+[10-Jun-2016 15:13:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:21:45 UTC] PHP Fatal error:  Call to undefined method order::setInstrumentId() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 89
+[10-Jun-2016 15:21:45 UTC] PHP Stack trace:
+[10-Jun-2016 15:21:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:21:46 UTC] PHP Fatal error:  Call to undefined method order::setInstrumentId() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 89
+[10-Jun-2016 15:21:46 UTC] PHP Stack trace:
+[10-Jun-2016 15:21:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:22:25 UTC] PHP Fatal error:  Call to undefined method instrument::setOrderId() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 95
+[10-Jun-2016 15:22:25 UTC] PHP Stack trace:
+[10-Jun-2016 15:22:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:22:26 UTC] PHP Fatal error:  Call to undefined method instrument::setOrderId() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 95
+[10-Jun-2016 15:22:26 UTC] PHP Stack trace:
+[10-Jun-2016 15:22:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:24:29 UTC] PHP Fatal error:  Call to undefined method instrument::setOrderId() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 95
+[10-Jun-2016 15:24:29 UTC] PHP Stack trace:
+[10-Jun-2016 15:24:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:24:30 UTC] PHP Fatal error:  Call to undefined method instrument::setOrderId() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 95
+[10-Jun-2016 15:24:30 UTC] PHP Stack trace:
+[10-Jun-2016 15:24:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:25:19 UTC] PHP Fatal error:  Call to undefined method instrument::setOrderId() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 95
+[10-Jun-2016 15:25:19 UTC] PHP Stack trace:
+[10-Jun-2016 15:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:25:42 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 103 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:25:42 UTC] PHP Stack trace:
+[10-Jun-2016 15:25:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:25:42 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:103
+[10-Jun-2016 15:25:42 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 104 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:25:42 UTC] PHP Stack trace:
+[10-Jun-2016 15:25:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:25:42 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:104
+[10-Jun-2016 15:26:20 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 103 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:26:20 UTC] PHP Stack trace:
+[10-Jun-2016 15:26:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:26:20 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:103
+[10-Jun-2016 15:26:20 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 104 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:26:20 UTC] PHP Stack trace:
+[10-Jun-2016 15:26:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:26:20 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:104
+[10-Jun-2016 15:27:51 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 103 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:27:51 UTC] PHP Stack trace:
+[10-Jun-2016 15:27:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:27:51 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:103
+[10-Jun-2016 15:27:51 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 104 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:27:51 UTC] PHP Stack trace:
+[10-Jun-2016 15:27:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:27:51 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:104
+[10-Jun-2016 15:29:23 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 103 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:29:23 UTC] PHP Stack trace:
+[10-Jun-2016 15:29:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:29:23 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:103
+[10-Jun-2016 15:29:23 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 104 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:29:23 UTC] PHP Stack trace:
+[10-Jun-2016 15:29:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:29:23 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:104
+[10-Jun-2016 15:31:03 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 103 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:31:03 UTC] PHP Stack trace:
+[10-Jun-2016 15:31:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:31:03 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:103
+[10-Jun-2016 15:31:03 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 104 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:31:03 UTC] PHP Stack trace:
+[10-Jun-2016 15:31:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:31:03 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:104
+[10-Jun-2016 15:31:54 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 103 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:31:54 UTC] PHP Stack trace:
+[10-Jun-2016 15:31:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:31:54 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:103
+[10-Jun-2016 15:31:54 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 104 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:31:54 UTC] PHP Stack trace:
+[10-Jun-2016 15:31:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:31:54 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:104
+[10-Jun-2016 15:31:55 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 103 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:31:55 UTC] PHP Stack trace:
+[10-Jun-2016 15:31:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:31:55 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:103
+[10-Jun-2016 15:31:55 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 104 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:31:55 UTC] PHP Stack trace:
+[10-Jun-2016 15:31:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:31:55 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:104
+[10-Jun-2016 15:32:10 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 103 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:32:10 UTC] PHP Stack trace:
+[10-Jun-2016 15:32:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:32:10 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:103
+[10-Jun-2016 15:32:10 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 104 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:32:10 UTC] PHP Stack trace:
+[10-Jun-2016 15:32:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:32:10 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:104
+[10-Jun-2016 15:33:06 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 103 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:33:06 UTC] PHP Stack trace:
+[10-Jun-2016 15:33:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:33:06 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:103
+[10-Jun-2016 15:33:06 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 104 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:33:06 UTC] PHP Stack trace:
+[10-Jun-2016 15:33:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:33:06 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:104
+[10-Jun-2016 15:33:12 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 103 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:33:12 UTC] PHP Stack trace:
+[10-Jun-2016 15:33:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:33:12 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:103
+[10-Jun-2016 15:33:12 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 104 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:33:12 UTC] PHP Stack trace:
+[10-Jun-2016 15:33:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:33:12 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:104
+[10-Jun-2016 15:34:59 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 103 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:34:59 UTC] PHP Stack trace:
+[10-Jun-2016 15:34:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:34:59 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:103
+[10-Jun-2016 15:34:59 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 104 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:34:59 UTC] PHP Stack trace:
+[10-Jun-2016 15:34:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:34:59 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:104
+[10-Jun-2016 15:37:09 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 103 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:37:09 UTC] PHP Stack trace:
+[10-Jun-2016 15:37:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:37:09 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:103
+[10-Jun-2016 15:37:09 UTC] PHP Warning:  Missing argument 1 for order::setOrderId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 104 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:37:09 UTC] PHP Stack trace:
+[10-Jun-2016 15:37:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:37:09 UTC] PHP   2. order->setOrderId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:104
+[10-Jun-2016 15:38:02 UTC] PHP Warning:  Missing argument 1 for order::setBestelId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 103 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:38:02 UTC] PHP Stack trace:
+[10-Jun-2016 15:38:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:38:02 UTC] PHP   2. order->setBestelId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:103
+[10-Jun-2016 15:38:02 UTC] PHP Warning:  Missing argument 1 for order::setBestelId(), called in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 104 and defined in /home/ubuntu/workspace/Periode4/Oh oh/order.class.php on line 13
+[10-Jun-2016 15:38:02 UTC] PHP Stack trace:
+[10-Jun-2016 15:38:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:38:02 UTC] PHP   2. order->setBestelId() /home/ubuntu/workspace/Periode4/Oh oh/index.php:104
+[10-Jun-2016 15:38:41 UTC] PHP Fatal error:  Call to undefined method order::setOrderId() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 89
+[10-Jun-2016 15:38:41 UTC] PHP Stack trace:
+[10-Jun-2016 15:38:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:46:16 UTC] PHP Fatal error:  Class 'reparatie' not found in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 112
+[10-Jun-2016 15:46:16 UTC] PHP Stack trace:
+[10-Jun-2016 15:46:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:52:27 UTC] PHP Fatal error:  Class 'reparatie' not found in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 112
+[10-Jun-2016 15:52:27 UTC] PHP Stack trace:
+[10-Jun-2016 15:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:52:29 UTC] PHP Fatal error:  Class 'reparatie' not found in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 112
+[10-Jun-2016 15:52:29 UTC] PHP Stack trace:
+[10-Jun-2016 15:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:52:29 UTC] PHP Fatal error:  Class 'reparatie' not found in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 112
+[10-Jun-2016 15:52:29 UTC] PHP Stack trace:
+[10-Jun-2016 15:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:52:30 UTC] PHP Fatal error:  Class 'reparatie' not found in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 112
+[10-Jun-2016 15:52:30 UTC] PHP Stack trace:
+[10-Jun-2016 15:52:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:52:30 UTC] PHP Fatal error:  Class 'reparatie' not found in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 112
+[10-Jun-2016 15:52:30 UTC] PHP Stack trace:
+[10-Jun-2016 15:52:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:52:30 UTC] PHP Fatal error:  Class 'reparatie' not found in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 112
+[10-Jun-2016 15:52:30 UTC] PHP Stack trace:
+[10-Jun-2016 15:52:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:52:30 UTC] PHP Fatal error:  Class 'reparatie' not found in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 112
+[10-Jun-2016 15:52:30 UTC] PHP Stack trace:
+[10-Jun-2016 15:52:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:52:30 UTC] PHP Fatal error:  Class 'reparatie' not found in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 112
+[10-Jun-2016 15:52:30 UTC] PHP Stack trace:
+[10-Jun-2016 15:52:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:52:31 UTC] PHP Fatal error:  Class 'reparatie' not found in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 112
+[10-Jun-2016 15:52:31 UTC] PHP Stack trace:
+[10-Jun-2016 15:52:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:52:31 UTC] PHP Fatal error:  Class 'reparatie' not found in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 112
+[10-Jun-2016 15:52:31 UTC] PHP Stack trace:
+[10-Jun-2016 15:52:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:52:52 UTC] PHP Fatal error:  Call to undefined method order::getKosten() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 126
+[10-Jun-2016 15:52:52 UTC] PHP Stack trace:
+[10-Jun-2016 15:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:53:19 UTC] PHP Fatal error:  Call to undefined method order::getKosten() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 126
+[10-Jun-2016 15:53:19 UTC] PHP Stack trace:
+[10-Jun-2016 15:53:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[10-Jun-2016 15:53:20 UTC] PHP Fatal error:  Call to undefined method order::getKosten() in /home/ubuntu/workspace/Periode4/Oh oh/index.php on line 126
+[10-Jun-2016 15:53:20 UTC] PHP Stack trace:
+[10-Jun-2016 15:53:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/Oh oh/index.php:0
+[13-Jun-2016 09:45:15 UTC] PHP Parse error:  syntax error, unexpected '$_COOKIE' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/Periode4/week5/cookies2.php on line 13
+[29-Jun-2016 12:50:23 UTC] PHP Warning:  setcookie() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/Periode4/week5/cookies2.php on line 21
+[29-Jun-2016 12:50:23 UTC] PHP Stack trace:
+[29-Jun-2016 12:50:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week5/cookies2.php:0
+[29-Jun-2016 12:50:23 UTC] PHP   2. setcookie() /home/ubuntu/workspace/Periode4/week5/cookies2.php:21
+[29-Jun-2016 12:50:40 UTC] PHP Warning:  setcookie() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/Periode4/week5/cookies2.php on line 21
+[29-Jun-2016 12:50:40 UTC] PHP Stack trace:
+[29-Jun-2016 12:50:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week5/cookies2.php:0
+[29-Jun-2016 12:50:40 UTC] PHP   2. setcookie() /home/ubuntu/workspace/Periode4/week5/cookies2.php:21
+[03-Jul-2016 16:10:22 UTC] PHP Fatal error:  Call to undefined method PDOStatement::close() in /home/ubuntu/workspace/Periode4/week3/prepare.php on line 29
+[03-Jul-2016 16:10:22 UTC] PHP Stack trace:
+[03-Jul-2016 16:10:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week3/prepare.php:0
+[03-Jul-2016 16:14:51 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ubuntu/workspace/Periode4/week3/prepare.php on line 26
+[03-Jul-2016 16:14:51 UTC] PHP Stack trace:
+[03-Jul-2016 16:14:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week3/prepare.php:0
+[03-Jul-2016 16:14:51 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Periode4/week3/prepare.php:26
+[03-Jul-2016 16:14:51 UTC] PHP Fatal error:  Call to undefined method PDOStatement::close() in /home/ubuntu/workspace/Periode4/week3/prepare.php on line 28
+[03-Jul-2016 16:14:51 UTC] PHP Stack trace:
+[03-Jul-2016 16:14:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week3/prepare.php:0
+[04-Jul-2016 19:09:06 UTC] PHP Parse error:  syntax error, unexpected '$_COOKIE' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/Periode4/week5/cookies2.php on line 14
+[04-Jul-2016 19:12:03 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/ubuntu/workspace/Periode4/week5/cookies2.php on line 6
+[05-Jul-2016 13:10:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week2/limit1.php on line 22
+[05-Jul-2016 13:10:49 UTC] PHP Stack trace:
+[05-Jul-2016 13:10:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/limit1.php:0
+[05-Jul-2016 13:15:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Periode4/week2/limit1.php on line 22
+[05-Jul-2016 13:15:20 UTC] PHP Stack trace:
+[05-Jul-2016 13:15:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week2/limit1.php:0

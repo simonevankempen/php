@@ -1,0 +1,12 @@
+[01-Jun-2016 08:17:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/Periode4/week3/images/get.php on line 8
+[01-Jun-2016 08:17:20 UTC] PHP Stack trace:
+[01-Jun-2016 08:17:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week3/images/get.php:0
+[01-Jun-2016 08:17:20 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/Periode4/week3/images/get.php:8
+[11-Feb-2017 20:46:43 UTC] PHP Warning:  move_uploaded_file(images/giphy-facebook_s.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/Periode4/week3/images/uploadimage.php on line 24
+[11-Feb-2017 20:46:43 UTC] PHP Stack trace:
+[11-Feb-2017 20:46:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week3/images/uploadimage.php:0
+[11-Feb-2017 20:46:43 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Periode4/week3/images/uploadimage.php:24
+[11-Feb-2017 20:46:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3NfHta' to 'images/giphy-facebook_s.jpg' in /home/ubuntu/workspace/Periode4/week3/images/uploadimage.php on line 24
+[11-Feb-2017 20:46:43 UTC] PHP Stack trace:
+[11-Feb-2017 20:46:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode4/week3/images/uploadimage.php:0
+[11-Feb-2017 20:46:43 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Periode4/week3/images/uploadimage.php:24

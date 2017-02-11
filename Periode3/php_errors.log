@@ -1,0 +1,6 @@
+[11-May-2016 06:51:21 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/Periode3/week6/Pe3Wk6-2.php on line 28
+[11-May-2016 06:51:21 UTC] PHP Stack trace:
+[11-May-2016 06:51:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode3/week6/Pe3Wk6-2.php:0
+[13-May-2016 13:04:11 UTC] PHP Fatal error:  Call to undefined function test_input() in /home/ubuntu/workspace/Periode3/week4/Pe3Wk4a.php on line 13
+[13-May-2016 13:04:11 UTC] PHP Stack trace:
+[13-May-2016 13:04:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Periode3/week4/Pe3Wk4a.php:0
